@@ -1,6 +1,6 @@
 # Movie App
    Full stack application that manages movie entities, companies, and user registrations. The application allows CRUD operations, pagination, and supports both online and offline functionality.
-   - [Backend Link](https://github.com/AndreiGota/MovieAppBackend)
+   - [Backend Link](https://github.com/GotaSeptimiuAndrei/MovieAppBackend)
 
 # Key Features
 
@@ -19,3 +19,13 @@
 - One-to-Many Relationship: Maintained a one-to-many relationship between companies and movies in the database.
 - Aggregated Endpoints: Created endpoints to provide paginated, aggregated information from related database tables.
 - Authentication: Secured endpoints with JWT for user authentication.
+
+## Project Screenshots
+ ### Display movies page:
+  <p align="center"> <img src="https://github.com/GotaSeptimiuAndrei/MovieAppFrontend/blob/main/ProjectScreenshots/photo1.png" height="500"/> </p>
+
+ ### Add movie form:
+   <p align="center"> <img src="https://github.com/GotaSeptimiuAndrei/MovieAppFrontend/blob/main/ProjectScreenshots/photo2.png" height="500"/> </p>
+
+ ### Register page:
+   <p align="center"> <img src="https://github.com/GotaSeptimiuAndrei/MovieAppFrontend/blob/main/ProjectScreenshots/photo3.png" height="500"/> </p>
